@@ -42,7 +42,11 @@ If you like my work, you can support me here 😊
 
 ## 🌐 Connect With Me  
 <p>
+<p>
   <a href="https://www.linkedin.com/in/avishka-weerasinghe-77b382343/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+
+
+</p>
  
 </p>
 

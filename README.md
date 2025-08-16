@@ -1,4 +1,4 @@
-# Hey there 👋, I'm Avishka Ponnaya 
+# Hey there 👋, I'm Avishka Weerasinghe
 
 💻 Passionate Developer | 🚀 Tech Explorer | 🌱 Lifelong Learner  
 
@@ -43,7 +43,6 @@ If you like my work, you can support me here 😊
 ## 🌐 Connect With Me  
 <p>
   <a href="https://www.linkedin.com/in/avishka-weerasinghe-77b382343/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://twitter.com/yourname"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="https://dev.to/yourname"><img src="https://skillicons.dev/icons?i=devto" height="40"/></a>
+ 
 </p>
 

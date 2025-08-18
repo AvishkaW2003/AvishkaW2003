@@ -52,12 +52,20 @@
 
 ---
 
+## 📈 My GitHub Activity Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AvishkaW2003/AvishkaW2003/main/assets/animated-divider.gif" width="80%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvishkaW2003&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f28b82&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
+---
+
+## 🐍 Watch my contributions snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AvishkaW2003/AvishkaW2003/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
 
 <p align="center">
   🔥 “Code. Learn. Build. Repeat.” 🔥
 </p>
-
-

@@ -13,7 +13,8 @@
 
 ## 📊 GitHub Stats  
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AvishkaW2003
+e&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=tokyonight" alt="streak" height="180"/>
 </p>
 
